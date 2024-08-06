@@ -1,0 +1,3 @@
+#+title: warmacs.d
+
+Configuration for my [[https://github.com/WarFox/warmacs][warmacs]] setup.
